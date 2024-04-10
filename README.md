@@ -1,0 +1,1 @@
+Aquest petit projecte sorgeix de la necessitat de tornar a programar. Vaig deixar de fer-ho per problemes amb la gestió de la frustració i he decidit fer un petit videojoc que utilitzi un array 2D ja que no tenia molta idea de com funcionaven i em semblava una barrera superable.
